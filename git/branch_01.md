@@ -17,3 +17,4 @@ Learn how to work with Git Branches
 Answer the following:
 
 1. Why branches are useful? Give an example of one real-world scenario for using branches
+ANS. To add new features or fix errors we need branches
