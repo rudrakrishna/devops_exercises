@@ -17,4 +17,5 @@ Learn how to commit changes in Git repositories
 Answer the following:
 
 * What are the benefits of commits?
-* Is there another way to verify a commit was created?
+* Is there another way to verify a commit was creatd?
+ans. benifits of the commit is another devolopers know that what are the changes  they have done and what is in that
